@@ -2,8 +2,6 @@
 
 Desarrollo de un proyecto de autentificación básico en Laravel 8
 
-(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png)
-
 ## Pre-requisitos
 
 1) Proyecto creado con [Laravel](https://laravel.com/), que nos exige una versión moderna de PHP y algunas de sus extensiones instaladas:
