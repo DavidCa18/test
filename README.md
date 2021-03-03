@@ -19,7 +19,13 @@ XAMPP con PHP 7.3 (recomendado). Esto te instalará MySQL, PHPMyAdmin, Apache y 
 
 ## Instalación para Desarrollo
 
-1) Para levantar el ambiente ejecutar el siguiente comando. 
+1) Para levantar el ambiente ejecutar los siguiente comando. 
 ```
-php artisan serve
+
+# composer install
+
+# php artisan migrate:fresh --seed
+
+# php artisan serve
+
 ```
